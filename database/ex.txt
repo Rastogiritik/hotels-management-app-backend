@@ -1,0 +1,36 @@
+{
+  "name": "The Golden Palace",
+  "address": "123 Main Street, Anytown, CA 91234",
+  "phone": "(123) 456-7890",
+  "images": [
+    "https://i.imgur.com/123456.jpg",
+    "https://i.imgur.com/789012.jpg"
+  ],
+  "title": "The Golden Palace",
+  "subtitle": "The best Chinese food in town!",
+  "food_availability": true,
+  "cuisines": [
+    "Chinese",
+    "Japanese",
+    "Korean"
+  ]
+}
+
+
+
+{
+  "name": "Indian",
+  "description": "A cuisine that originated in the Indian subcontinent.",
+  "vegNonVeg": "Vegetarian",
+  "pics": [
+    "https://i.imgur.com/123456.jpg",
+    "https://i.imgur.com/789012.jpg"
+  ],
+  "price": "2000",
+  "ratings": 5,
+  "ingredients": [
+    "rice",
+    "lentils",
+    "spices"
+  ]
+}
